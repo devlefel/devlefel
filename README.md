@@ -1,6 +1,6 @@
 # 👋🏾 Hi there
 
-I'm Felipe Gomes, a software developer and game design enthusiast. I currently work as a Senior Software Developer @BMS. </br>
+I'm Felipe Gomes, a software developer and game design enthusiast. I currently work as a Senior Software Developer. </br>
 With over 8 years of experience in the field, I've had the opportunity to work on various exciting projects always focusing in the business and exploring different technologies.
 
 
